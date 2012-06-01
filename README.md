@@ -9,3 +9,8 @@ in this project, local storage's design is good and implemented well,
 while the cummunications between servers designed not so good.
 it is to be improved
 
+to lookup former process, 
+can visit https://github.com/linchao/SQS,
+at branch "prepub"
+
+
